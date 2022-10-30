@@ -11,12 +11,13 @@
 ~~Czas przygotowania: 3 godziny~~
 - Czas przygotowania: 2 godziny
 - Czas duszenia: 2 dni
+    - może być dłużej
 - Liczba porcji: 5 kg bigosu<br/>
 
 >Kaloryczność kcal: 190 w 100 g bigosu
 >>Dieta: bezglutenowa<br/>
 
-Składniki:
+**Składniki:**
 1. 1 kg kapusty świeżej - pół średniej główki
 2. 2 kg kapusty kiszonej + 2,5 szklanki wody do gotowania
 3. 80 g suszonych grzybów + 500 ml wody do moczenia
@@ -30,7 +31,9 @@ Składniki:
 11. 150 g boczku parzonego wędzonego
 12. 2 duże cebule - do 400 g
 13. 50 g suszonych śliwek bez pestek - lub więcej
-14. 1 szklanka czerwonego, wytrawnego wina - można pominąć
+14. 1 szklanka czerwonego, wytrawnego wina
+    1. można użyć półwytrawnego
+    2. można pominąć
 15. przyprawy i zioła: 5 ziaren ziela angielskiego, łyżeczka czarnego pieprzu, 5 liści laurowych, 1 goździk, 2 ziarna jałowca<br/>
 
 ```py 
