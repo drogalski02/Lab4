@@ -1,8 +1,8 @@
-# Bigos
+# Bigos<br/>
 
-*Zobacz jak smakuje prawdziwy bigos tradycyjny. Poznaj mój sprawdzony przepis na bigos z dużą ilością różnych mięs, z suszonymi grzybami, śliwkami i idealnie dobranymi przyprawami. To danie, które Cię zachwyci.*
+*Zobacz jak smakuje prawdziwy bigos tradycyjny. Poznaj mój sprawdzony przepis na bigos z dużą ilością różnych mięs, z suszonymi grzybami, śliwkami i idealnie dobranymi przyprawami. To danie, które Cię zachwyci.*<br/>
 
-**składniki na bigos staropolski**
+**składniki na bigos staropolski**<br/>
 
 
 
@@ -11,14 +11,10 @@
 ~~Czas przygotowania: 3 godziny~~
 - Czas przygotowania: 2 godziny
 - Czas duszenia: 2 dni
-- Liczba porcji: 5 kg bigosu
+- Liczba porcji: 5 kg bigosu<br/>
 
 >Kaloryczność kcal: 190 w 100 g bigosu
->>Dieta: bezglutenowa
-
-
-
-
+>>Dieta: bezglutenowa<br/>
 
 Składniki:
 1. 1 kg kapusty świeżej - pół średniej główki
@@ -35,13 +31,14 @@ Składniki:
 12. 2 duże cebule - do 400 g
 13. 50 g suszonych śliwek bez pestek - lub więcej
 14. 1 szklanka czerwonego, wytrawnego wina - można pominąć
-15. przyprawy i zioła: 5 ziaren ziela angielskiego, łyżeczka czarnego pieprzu, 5 liści laurowych, 1 goździk, 2 ziarna jałowca
+15. przyprawy i zioła: 5 ziaren ziela angielskiego, łyżeczka czarnego pieprzu, 5 liści laurowych, 1 goździk, 2 ziarna jałowca<br/>
+
 ```py 
 print("Przepyszny bigosik")
 print("Taki nie za tani, ale drogi też nie")
 print("Życzę smacznego")
 ```
-
+<br/>
 
 
 
