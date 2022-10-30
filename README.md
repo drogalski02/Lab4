@@ -4,6 +4,10 @@
 
 **składniki na bigos staropolski**
 
+
+
+
+
 ~~Czas przygotowania: 3 godziny~~
 - Czas przygotowania: 2 godziny
 - Czas duszenia: 2 dni
@@ -11,6 +15,10 @@
 
 >Kaloryczność kcal: 190 w 100 g bigosu
 >>Dieta: bezglutenowa
+
+
+
+
 
 Składniki:
 1. 1 kg kapusty świeżej - pół średniej główki
@@ -33,6 +41,10 @@ print("Przepyszny bigosik")
 print("Taki nie za tani, ale drogi też nie")
 print("Życzę smacznego")
 ```
+
+
+
+
 Jeśli smakowało to możemy użyć polecenia ``print("Było przepyszne")``
 Bigos
 ![bigos.jpg](bigos.jpg)
